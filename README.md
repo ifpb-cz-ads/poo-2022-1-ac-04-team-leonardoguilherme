@@ -7,6 +7,6 @@
 ##### Livro Batista & Moraes (2013)
 6)
 7)
-8)
+8) A resolução encontra-se no arquivo BMExercicio8.java
 9)
 10)
